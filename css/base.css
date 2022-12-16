@@ -255,6 +255,7 @@ a:hover {
 .solTech_main section.solTech_operation .section_title {
   font-size: 22px;
   padding: 21px 0px 2px 0;
+  margin: 0 6px;
 }
 .solTech_main section.solTech_operation .operation_container {
   width: 100%;
